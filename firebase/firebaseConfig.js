@@ -4,7 +4,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage'; // Correct
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAyZfT_gGH59MgdC5vPtoxvT_V9ZrAf5_Y",
+  apiKey: "Api",
   authDomain: "anime-tracker-app.firebaseapp.com",
   databaseURL: "https://anime-tracker-app-default-rtdb.firebaseio.com",
   projectId: "anime-tracker-app",
