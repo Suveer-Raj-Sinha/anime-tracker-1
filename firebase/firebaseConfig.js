@@ -10,7 +10,7 @@ const firebaseConfig = {
   projectId: "anime-tracker-app",
   storageBucket: "anime-tracker-app.appspot.com",
   messagingSenderId: "686739565401",
-  appId: "1:686739565401:web:3991eaca4e86ee3ad4fa48",
+  appId: "",
   measurementId: "G-ZGJNTD8MSD"
 };
 
