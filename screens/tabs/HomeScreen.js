@@ -5,6 +5,7 @@ import {
 } from "@react-navigation/native";
 import { useState } from "react";
 import { Button, Text, View } from "react-native";
+import  ProfileScreen from "./ProfileScreen";  
 
 
 export default function HomeScreen() {
